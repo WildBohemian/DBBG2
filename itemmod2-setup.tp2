@@ -1,0 +1,15 @@
+BACKUP ~itemmod2/BACKUP~
+AUTHOR ~David Bianco - D.Bianco87@gmail.com~
+VERSION ~v1.0~
+LANGUAGE ~English~ ~itemmod2/english~ ~itemmod2/english/english.tra~
+BEGIN ~itemmod2 by DB~
+COPY ~itemmod2/DBLUN.ITM~ ~override/DBLUN.ITM~
+		SAY NAME1 @1
+		SAY NAME2 @2
+		SAY UNIDENTIFIED_DESC @3
+		SAY DESC @4
+COPY ~itemmod2/DBBF.ITM~ ~override/DBBF.ITM~
+		SAY NAME1 @5
+		SAY NAME2 @6
+		SAY UNIDENTIFIED_DESC @7
+		SAY DESC @8

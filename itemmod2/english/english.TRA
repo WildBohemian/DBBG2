@@ -1,0 +1,55 @@
+////////////////////////////////////////////////
+//Item Mod2
+////////////////////////////////////////////////
+@1=~Club~
+@2=~Bambolpucky~
+
+@3=~Most clubs are stout, hardwood sticks, narrow at the grip and wider at the end. This simple weapon has been used since people first began using tools. Anyone can find a good, stout piece of wood and swing it; hence the club's widespread use. This particular club has been magically enhanced.
+
+STATISTICS:
+
+THAC0: +3
+Damage: 1d6+3 (crushing)
+Speed Factor: 1
+Proficiency Type:Club
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 1
+~
+
+@4=~
+Mystic Club: Bambolpucky
+
+This club is said to be the vessel of Bambolpucky, an ancient Fae martial arts teacher and spiritualist.  The name Bambolpucky came from a young student's mispronunciation of Bambolpucky's true name, which delighted the jovial fae.
+
+STATISTICS:
+
+Combat Abilities
+
+– 1 extra attack per round
+– Armor Class: +2
+
+THAC0: +3
+Damage: 1d6+3 (crushing)
+Speed Factor: 3
+Proficiency Type: Club
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+
+@5=~Helmet~
+@6=~Sion's Blindfold~
+@7=~Blindfolds cover your eyes.~
+@8=~Sion's Blindfold allows her to achieve perfect focus.  This allows her to lay traps in combat.
+
+STATISTICS:
+
+Equipped abilities:
+– Protects against critical hits
+– Blindness
+
+Weight: 2~
